@@ -1,0 +1,4 @@
+==This Repo
+Is going to serve as a learning base for my expeditions into Perl. Any comments, questions, upgrades on my test programs, and advice will be accepted. I will also try to maintain a list of programs in this README file and describe what they are suposed to do.
+
+
